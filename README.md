@@ -293,10 +293,5 @@ opacity: 1; establece la opacidad del elemento con la clase "dropdown__container
 pointer-events: initial; restablece el comportamiento predeterminado de eventos de puntero para permitir que el elemento sea clickeable.
 cursor: initial; restablece el cursor predeterminado del puntero al valor predeterminado del navegador.
 
-
-
-
-
-
-
-# Navigation-Bar-by-Bedimcode
+---
+Corrección de error CSS en la clase .nav__toggle. 
